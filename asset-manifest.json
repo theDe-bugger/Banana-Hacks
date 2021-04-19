@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/banana-hacks/static/css/main.eace0fff.chunk.css",
+    "main.js": "/banana-hacks/static/js/main.0a1521b9.chunk.js",
+    "main.js.map": "/banana-hacks/static/js/main.0a1521b9.chunk.js.map",
+    "runtime-main.js": "/banana-hacks/static/js/runtime-main.b27fca05.js",
+    "runtime-main.js.map": "/banana-hacks/static/js/runtime-main.b27fca05.js.map",
+    "static/js/2.71e00837.chunk.js": "/banana-hacks/static/js/2.71e00837.chunk.js",
+    "static/js/2.71e00837.chunk.js.map": "/banana-hacks/static/js/2.71e00837.chunk.js.map",
+    "index.html": "/banana-hacks/index.html",
+    "precache-manifest.26efc3c3bca02f70e1b51d6b50845ccb.js": "/banana-hacks/precache-manifest.26efc3c3bca02f70e1b51d6b50845ccb.js",
+    "service-worker.js": "/banana-hacks/service-worker.js",
+    "static/css/main.eace0fff.chunk.css.map": "/banana-hacks/static/css/main.eace0fff.chunk.css.map",
+    "static/js/2.71e00837.chunk.js.LICENSE.txt": "/banana-hacks/static/js/2.71e00837.chunk.js.LICENSE.txt",
+    "static/js/main.0a1521b9.chunk.js.LICENSE.txt": "/banana-hacks/static/js/main.0a1521b9.chunk.js.LICENSE.txt",
+    "static/media/ayush.jpeg": "/banana-hacks/static/media/ayush.3e1d1bb4.jpeg",
+    "static/media/banana.png": "/banana-hacks/static/media/banana.538de0cf.png",
+    "static/media/banner.png": "/banana-hacks/static/media/banner.7646efed.png",
+    "static/media/font-awesome.min.css": "/banana-hacks/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/nucleo.css": "/banana-hacks/static/media/nucleo-icons.f82ec6ba.ttf",
+    "static/media/promo-1.jpeg": "/banana-hacks/static/media/promo-1.49d36c47.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b27fca05.js",
+    "static/js/2.71e00837.chunk.js",
+    "static/css/main.eace0fff.chunk.css",
+    "static/js/main.0a1521b9.chunk.js"
+  ]
+}
