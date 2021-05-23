@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Banana-Hacks/precache-manifest.0cb3b02a830cec19236e5de8987f0ac2.js"
+  "/Banana-Hacks/precache-manifest.e15dbc2bc36d4e15aab63f5a4d469c49.js"
 );
 
 self.addEventListener('message', (event) => {
